@@ -5,9 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
 		"Git",
+		"Jekyll",
+		"Markdown Preview",
+		"Matlab Completions",
+		"MatlabFilenameAutoComplete",
 		"Package Control",
+		"SideBarEnhancements",
 		"SyncedSideBar",
-		"Theme - Soda"
+		"Theme - Soda",
+		"WordCount"
 	]
 }

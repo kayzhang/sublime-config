@@ -1,9 +1,28 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
