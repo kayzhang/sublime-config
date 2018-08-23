@@ -2,20 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"IMESupport"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"DocBlockr",
 		"Emmet",
 		"Git",
 		"IMESupport",
-		"Jekyll",
-		"LaTeX Word Count",
-		"LaTeXTools",
-		"Markdown Preview",
-		"Matlab Completions",
-		"MatlabFilenameAutoComplete",
 		"Package Control",
 		"SideBarEnhancements",
 		"SyncedSideBar",

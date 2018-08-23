@@ -12,8 +12,8 @@
 
 ```console
 cd /home/username/.config/sublime-text-3/Packages/User
-git clone git@github.com:kayzhang/sublime-config.git
-mv sublime-config/* .
+git clone https://github.com/kayzhang/sublime-config.git
+mv sublime-config/*(D) .
 rm -rf sublime-config
 ```
 

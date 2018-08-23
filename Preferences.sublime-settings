@@ -19,6 +19,7 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"IMESupport",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
